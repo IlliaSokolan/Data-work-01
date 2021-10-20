@@ -1,0 +1,3 @@
+
+{"name":"Vasya","surname":"Pupkin","age":"28","email":"pupkin@gmail.com"} 
+{"name":"Petya","surname":"Ivanov","age":"30","email":"pupkin@gmail.com"} 
